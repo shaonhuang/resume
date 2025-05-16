@@ -15,8 +15,6 @@
 *.fls
 __latexindent_temp.tex
 
-resume-zh.tex
-
 ## Editors ##
 
 .idea/
